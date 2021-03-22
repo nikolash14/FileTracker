@@ -1,0 +1,10 @@
+C:\Users\Nikolash.ESSBBSR\Documents\GitHub\FileTracker\FileTracker\bin\Debug\FileTracker.exe.config
+C:\Users\Nikolash.ESSBBSR\Documents\GitHub\FileTracker\FileTracker\bin\Debug\FileTracker.exe
+C:\Users\Nikolash.ESSBBSR\Documents\GitHub\FileTracker\FileTracker\bin\Debug\FileTracker.pdb
+C:\Users\Nikolash.ESSBBSR\Documents\GitHub\FileTracker\FileTracker\obj\Debug\FileTracker.csprojAssemblyReference.cache
+C:\Users\Nikolash.ESSBBSR\Documents\GitHub\FileTracker\FileTracker\obj\Debug\FileTracker.FileWatcher.resources
+C:\Users\Nikolash.ESSBBSR\Documents\GitHub\FileTracker\FileTracker\obj\Debug\FileTracker.Properties.Resources.resources
+C:\Users\Nikolash.ESSBBSR\Documents\GitHub\FileTracker\FileTracker\obj\Debug\FileTracker.csproj.GenerateResource.cache
+C:\Users\Nikolash.ESSBBSR\Documents\GitHub\FileTracker\FileTracker\obj\Debug\FileTracker.csproj.CoreCompileInputs.cache
+C:\Users\Nikolash.ESSBBSR\Documents\GitHub\FileTracker\FileTracker\obj\Debug\FileTracker.exe
+C:\Users\Nikolash.ESSBBSR\Documents\GitHub\FileTracker\FileTracker\obj\Debug\FileTracker.pdb
